@@ -1,0 +1,7 @@
+{
+  "item.allansmod.basic_item" : "Basic_Item",
+  "item.allansmod.red_sword" : "Red_Sword",
+  "itemGroup.allans_item_group" : "Simple_Items",
+  "block.allansmod.allan_block" : "Allan_Block",
+  "block.allansmod.flores_block" : "Flores_Block"
+}
